@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a Power BI project](https://github.com/Cesarmend/Bank-Loan-Report-SQL-PowerBI) regarding Financial Analysis.
 
-- 🌱 I’m currently learning **AWS (GCP) and Docker**
+- 🌱 I’m currently learning **AWS, **Locker Studio and Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cesarmend](https://github.com/Cesarmend)
 
