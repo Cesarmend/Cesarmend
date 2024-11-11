@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo Cesar Micolta Mendez</h1>
 <h3 align="center">A passionate and dedicated Data Scientist from Colombia</h3>
 
-- 🔭 I’m currently working on [a Power BI project](https://github.com/Cesarmend/Henry_P1_Data_analytics)
+- 🔭 I’m currently working on [a Power BI project](https://github.com/Cesarmend/Bank-Loan-Report-SQL-PowerBI) regarding Financial Analysis.
 
 - 🌱 I’m currently learning **Google Cloudd Platform (GCP) and Docker**
 
