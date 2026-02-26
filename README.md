@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo Cesar Micolta Mendez</h1>
 <h3 align="center">A passionate and dedicated Data Tech Representative from Colombia</h3>
 
-- 🔭 I’m currently working on [a Power BI project](https://github.com/Cesarmend/Bank-Loan-Report-SQL-PowerBI) regarding Financial Analysis.
+- 🔭 I’m currently working on [a Snowflake project] regarding Financial Analysis.
 
 - 🌱 I’m currently learning **Docker**, **portuguese**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pablo-cesar-micolta-mendez-669790212/](https://www.linkedin.com/in/pablo-cesar-micolta-mendez-669790212/)
 
-- ⚡ Fun fact **I like buñuelos, chontaduro, and açaí (naidí) ice cream**
+- ⚡ Fun fact **I love languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
