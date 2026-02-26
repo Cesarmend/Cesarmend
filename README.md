@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo Cesar Micolta Mendez</h1>
 <h3 align="center">A passionate and dedicated Data Tech Representative from Colombia</h3>
 
-- 🔭 I’m currently working on [a Snowflake project] regarding Financial Analysis.
+- 🔭 I’m currently working on a Snowflake project regarding loading data automation and pipelines.
 
 - 🌱 I’m currently learning **Docker**, **portuguese**
 
